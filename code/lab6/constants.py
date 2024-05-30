@@ -1,7 +1,7 @@
 # environment
 CONST_ENV_NAME = 'ALE/AirRaid-v5'
 # path to directory with model saves
-SAVES_PATH = "C:\\Users\\Mi\\my_documents\\master_program\\sem2\\MMO\code\\lab6\\model_saves"
+SAVES_PATH = "C:\\Users\\Mi\\my_documents\\master_program\\sem2\\MMO\MLMethods\\code\\lab6\\model_saves"
 # train step count
 NUM_TIME_STEPS = 100000
 # for play mode
@@ -11,8 +11,8 @@ PLAY_ROUNDS = 5
 REPLAY_CAPACITY = 1024
 
 # parameters for DQN algorithm
-BATCH_SIZE = 16
-TIME_STEPS_PER_TRAIN = 1000
+BATCH_SIZE = 64
+TIME_STEPS_PER_TRAIN = 100
 TRAIN_STEPS_PER_Q_SYNC = 10
 TIME_STEPS_PER_SAVE = TRAIN_STEPS_PER_Q_SYNC * TIME_STEPS_PER_TRAIN * 3
 MAX_NUM_TIME_STEPS = 500000
