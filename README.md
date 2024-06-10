@@ -12,3 +12,6 @@ Course "Machine learning methods" (2024)
 ### Control-reports:
 - [RK1](https://github.com/Svetlanlka/MLMethods/blob/main/reports/Очеретная%20С.В.%20ИУ5-25М%20ММО%20РК1.pdf)
 - [RK2](https://github.com/Svetlanlka/MLMethods/blob/main/reports/Очеретная%20С.В.%20ИУ5-25М%20ММО%20РК2.pdf)
+
+### Homework:
+- [DZ](https://github.com/Svetlanlka/MLMethods/blob/main/reports/Очеретная%20С.В.%20ИУ5-25М%20ММО%20ДЗ.pdf)

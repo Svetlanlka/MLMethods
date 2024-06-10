@@ -1,2 +1,2 @@
-env/
-lab6/__pycache__
+**/env
+**/__pycache__
